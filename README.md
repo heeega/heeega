@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E74B5&height=200&section=header&text=Hi%20I'm%20%ED%9E%88%EA%B0%80%20(Kahee%20Nam)&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOC%20%2F%20%EB%B3%B4%EC%95%88%EA%B4%80%EC%A0%9C%20%EC%8B%A0%EC%9E%85%20%EC%A7%80%EC%9B%90%EC%A4%91&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E74B5&height=200&section=header&text=Hi%20I'm%20%ED%9E%88%EA%B0%80%20(Gahee%20Nam)&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOC%20%2F%20%EB%B3%B4%EC%95%88%EA%B4%80%EC%A0%9C%20%EC%8B%A0%EC%9E%85%20%EC%A7%80%EC%9B%90%EC%A4%91&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E74B5&center=true&vCenter=true&width=600&lines=Security+Operations+Center+(SOC)+Analyst;Blue+Team+%7C+Threat+Detection+%7C+Digital+Forensics;SIEM+%C2%B7+EDR+%C2%B7+MITRE+ATT%26CK+%C2%B7+Cloud+Security" alt="Typing SVG" />
 
