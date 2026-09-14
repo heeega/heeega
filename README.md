@@ -15,7 +15,7 @@
 - 🧪 실습 환경을 스스로 구축(pfSense + Suricata + ELK/Wazuh)해서 로그 수집부터 MITRE ATT&CK 매핑, 탐지룰 작성까지 End-to-End로 경험하는 걸 좋아합니다.
 - ✍️ 배운 내용은 블로그에 꾸준히 기록하고 있습니다.
 - 🎓 부경대학교 경영학부(본전공) / 컴퓨터공학과(복수전공) 졸업
-- 📌 **정보처리기사** · **정보보안기사(필기)** · **SQLD** · **리눅스마스터 1급(1차)** · **한국사능력검정시험 고급**
+- 📌 **정보처리기사** · **정보보안기사(필기)** · **SQLD** · **리눅스마스터 1급(1차)** 
 
 <br>
 
@@ -85,12 +85,12 @@ AWS 3-tier 아키텍처 기반 클라우드 보안관제 모니터링 시스템 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=heeega&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=heeega&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=heeega&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeega&layout=compact&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeega&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" height="165"/>
 </div>
 
 <br>
