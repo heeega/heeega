@@ -85,12 +85,7 @@ AWS 3-tier 아키텍처 기반 클라우드 보안관제 모니터링 시스템 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=heeega&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=heeega&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeega&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" height="165"/>
 </div>
 
 <br>
